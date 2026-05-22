@@ -2,8 +2,7 @@
 
 <div align="left">
 
-Web Development & Digital Applications based in Argentina
-
+Web Development & Digital Applications | Based in Argentina
 </div>
 
 ---
