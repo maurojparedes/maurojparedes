@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi! I'm Mauro 👋
 
-<!--
-**maurojparedes/maurojparedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
 
-Here are some ideas to get you started:
+Web Developer from Argentina   
+Passionate about technology, software development and continuous learning  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## Tech Stack
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=java,js,nodejs,react,html,css,mysql,mongodb,git,github,vscode,aws" />
+
+</div>
+
+---
+
+## Currently Learning
+
+- Backend Development
+- REST APIs
+- Software Architecture
+- Clean Code & SOLID Principles
+- Cloud Technologies
+- Mobile Applications
+
+
+## Contact
+
+<div align="left">
+
+<a href="https://github.com/maurojparedes">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</div>
