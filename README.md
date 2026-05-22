@@ -2,8 +2,7 @@
 
 <div align="left">
 
-Web Developer from Argentina   
-Passionate about technology, software development and continuous learning  
+Web Development & Digital Applications based in Argentina
 
 </div>
 
