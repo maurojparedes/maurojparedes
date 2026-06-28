@@ -2,7 +2,7 @@
 
 <div align="left">
 
-Web Development & Digital Applications | Córdoba, Argentina
+Web Development & Digital Applications Student | Córdoba, Argentina
 </div>
 
 ---
