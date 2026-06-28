@@ -3,7 +3,6 @@
 <div align="left">
 
 Web Development & Digital Applications Student | Córdoba, Argentina
-
 Passionate about technology, software development, and creating modern, user-friendly web experiences.
 </div>
 
