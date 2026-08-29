@@ -1,10 +1,12 @@
-# Hi, I'm Mauro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+# Hi, I'm Mauro 👋
 
 <div align="left">
 
-Córdoba, Argentina
+📍 Córdoba, Argentina
 
-Passionate about technology, software development, and creating modern, user-friendly web experiences.
+Software Development student and Web Developer focused on building modern, functional and user-friendly applications.
+
+I enjoy learning by building projects and working across both frontend and backend development.
 </div>
 
 ---
@@ -13,20 +15,18 @@ Passionate about technology, software development, and creating modern, user-fri
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=java,js,nodejs,react,html,css,mysql,mongodb,git,github,vscode,aws" />
+<img src="https://skillicons.dev/icons?i=java,js,nodejs,react,html,css,mysql,mongodb,git,github,vscode" />
 
 </div>
 
 ---
 
-## Currently Learning
+## Currently Exploring
 
-- Backend Development
-- REST APIs
+- Backend Development & REST APIs
 - Software Architecture
 - Clean Code & SOLID Principles
-- Cloud Technologies
-- Mobile Applications
-
+- Testing
+- Docker & Cloud Technologies
 
 
